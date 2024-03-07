@@ -88,6 +88,14 @@ h2{
     background-color: #c365c6;
 }
 
+.botones{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
 .boton{
     width: 150px;
     height: 60px;
